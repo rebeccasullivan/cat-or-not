@@ -1,0 +1,13 @@
+High-Level Plan:
+- Get cat photo data from API
+- Pre-process photos
+	- Turn to all black-and-white
+	- 'Un-roll' into vectors of pixels
+- Run model
+
+
+API Notes:
+1) The Cat API - http://thecatapi.com/ - has XML limitation, but unlimited requests with token
+2) Rescue Groups - https://www.rescuegroups.org/services/adoptable-pet-data-api/ - has JSON format, but might have other limitations
+3) What Cat API - takes request of photo and spits back out possible breeds/probabilities. Not useful here, but might be fuel for future projects...
+
