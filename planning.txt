@@ -14,7 +14,10 @@ API Notes:
 Black and White Stuff:
 https://www.blog.pythonlibrary.org/2017/10/11/convert-a-photo-to-black-and-white-in-python/
 
-Image Stuff:
+Image Processing Stuff:
 https://stackoverflow.com/questions/1109422/getting-list-of-pixel-values-from-pil
 scikit-image: http://scikit-image.org/docs/dev/user_guide/numpy_images.html
+
+XML Serialization:
+https://github.com/dmw/pyxser - supports Python 2.4-2.7
 
