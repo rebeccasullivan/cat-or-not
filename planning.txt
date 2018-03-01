@@ -11,3 +11,10 @@ API Notes:
 2) Rescue Groups - https://www.rescuegroups.org/services/adoptable-pet-data-api/ - has JSON format, but might have other limitations
 3) What Cat API - takes request of photo and spits back out possible breeds/probabilities. Not useful here, but might be fuel for future projects...
 
+Black and White Stuff:
+https://www.blog.pythonlibrary.org/2017/10/11/convert-a-photo-to-black-and-white-in-python/
+
+Image Stuff:
+https://stackoverflow.com/questions/1109422/getting-list-of-pixel-values-from-pil
+scikit-image: http://scikit-image.org/docs/dev/user_guide/numpy_images.html
+
